@@ -1,0 +1,26 @@
+body{
+    font-family:  sans-serif;
+    text-align: center;
+    padding:20px;
+    background: palevioletred;
+
+}
+h1{
+    color: orangered;
+}
+label{
+    color: aqua;
+}
+button{
+    background: yellow;
+    color: red;
+    border-radius: 6px;
+    border: none;
+    height: 30px;
+    width: 50%;
+}
+input{
+    width: 50%;
+    margin-top: 30px;
+}
+
